@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+    /* Primary — Violet/Indigo xu hướng 2026 */
+    --color-primary-light: #818cf8;
+    /* indigo-400 */
+    --color-primary: #6366f1;
+    /* indigo-500 */
+    --color-primary-dark: #4f46e5;
+    /* indigo-600 */
+
+    /* Secondary — Violet */
+    --color-secondary-light: #a78bfa;
+    /* violet-400 */
+    --color-secondary: #8b5cf6;
+    /* violet-500 */
+
+    /* Surface — Slate trung tính */
+    --color-surface: #ffffff;
+    --color-surface-muted: #f8fafc;
+    /* slate-50 */
+    --color-surface-border: #e2e8f0;
+    /* slate-200 */
+
+    /* Text */
+    --color-text-base: #0f172a;
+    /* slate-900 */
+    --color-text-muted: #64748b;
+    /* slate-500 */
+    --color-text-subtle: #94a3b8;
+    /* slate-400 */
+
+    /* Status */
+    --color-error: #ef4444;
+    --color-error-ring: #fca5a5;
+    --color-success: #22c55e;
+    --color-warning: #f59e0b;
+}
